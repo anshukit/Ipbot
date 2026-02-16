@@ -1,4 +1,5 @@
 telethon
 motor
+pymongo[srv]
+dnspython
 uvloop
-pymongo
