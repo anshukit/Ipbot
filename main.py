@@ -17,8 +17,7 @@ except:
 
 BOT_TOKEN = "8217059630:AAEoCnw6dpoB4PwTwH9TsDIrruLB5bpShnY"
 API_ID, API_HASH, OWNER_ID = 32274951, "4603ab9934df6d83166b04db0e52e864", 8220872323
-MONGO_URI = "mongodb://localhost:27017"
-
+MONGO_URI = "mongodb+srv://anshusinghh099_db_user:lihPCbWaaArQusOd@cluster0.4wvzali.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 sessions = {}
 bot = None
 mongo_client = None
